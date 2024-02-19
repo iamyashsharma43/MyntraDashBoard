@@ -24,7 +24,7 @@ Datasets : Kaggle
 
 # SignIn to Power Bi Desktop and copy paste the below link in browser to view.
 
-Myntra Power Bi Dashboard : <a href="https://app.powerbi.com/view?r=eyJrIjoiZjA2NTg3NTAtZjgzYy00NzQxLWFhM2YtNzAzMjcxYTkzODYzI" target="_blank">LiveDemoExampleByYash</a>
+Myntra Power Bi Dashboard : <a href="https://app.powerbi.com/view?r=eyJrIjoiZjA2NTg3NTAtZjgzYy00NzQxLWFhM2YtNzAzMjcxYTkzODYzIiwidCI6ImVkZGQ2ZTMyLTc3MzMtNDQ3MS1iZTFmLTBjZjc0YjJjNmNhMSJ9" target="_blank">LiveDemoExampleByYash</a>
 
 
 
