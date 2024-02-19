@@ -20,7 +20,7 @@ Datasets : Kaggle
 4) Improved decision-making with accurate KPIs, achieving 95% accuracy in tracking conversion rates and average order value.
 5) Implemented interactive filters, increasing user interactivity and understanding of sales patterns.
 
-![myntra_dashboard](https://github.com/iamyashsharma43/amazon_sales_Tableau_dashbaord_/assets/113009011/0fc1686f-fc4b-40dc-95b8-527521c5bf8f)
+![myntra_dashboard](https://github.com/iamyashsharma43/MyntraDashBoard/blob/main/Dataset_%26_Related%20Files/myntra_dashboard.png)
 
 # SignIn to Power Bi Desktop and copy paste the below link in browser to view.
 Myntra Power Bi Dashboard : https://app.powerbi.com/view?r=eyJrIjoiZjA2NTg3NTAtZjgzYy00NzQxLWFhM2YtNzAzMjcxYTkzODYzIiwidCI6ImVkZGQ2ZTMyLTc3MzMtNDQ3MS1iZTFmLTBjZjc0YjJjNmNhMSJ9
